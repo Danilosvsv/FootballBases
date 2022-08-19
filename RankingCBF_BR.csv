@@ -1,0 +1,240 @@
+POS.,CLUBE,UF,PONTOS
+1,Flamengo,RJ,17054
+2,Palmeiras,SP,14584
+3,Atletico-MG,MG,14572
+4,Grêmio,RS,14336
+5,Athletico-PR,PR,13512
+6,Santos,SP,12816
+7,São Paulo,SP,12604
+8,Internacional,RS,12108
+9,Fluminense,RJ,11100
+10,Corinthians,SP,11064
+11,Fortaleza,CE,10841
+12,Bahia,BA,10261
+13,Ceará,CE,9537
+14,Cruzeiro,MG,9034
+15,América-MG,MG,8860
+16,Atlético-GO,GO,8548
+17,Chapecoense,SC,8468
+18,Botafogo,RJ,8376
+19,Vasco,RJ,8206
+20,Red Bull Bragantino,SP,7789
+21,Sport,PE,6896
+22,Cuiabá,MT,6789
+23,Goiás,GO,6628
+24,Juventude,RS,6385
+25,Vitória,BA,5913
+26,Coritiba,PR,5858
+27,Avaí,SC,5719
+28,CRB,AL,5565
+29,Ponte Preta,SP,5200
+30,CSA,AL,5088
+31,Vila Nova,GO,4577
+32,Sampaio Corrêa,MA,4271
+33,Paraná,PR,4066
+34,Operário,PR,3914
+35,Guarani,SP,3865
+36,Criciúma,SC,3858
+37,Brasil de Pelotas,RS,3835
+38,Náutico,PE,3730
+39,Londrina,PR,3673
+40,Paysandu,PA,3498
+41,Figueirense,SC,3493
+42,Remo,PA,3244
+43,Oeste,SP,3098
+44,Confiança,SE,3007
+45,Brusque,SC,2861
+46,Santa Cruz,PE,2840
+47,ABC,RN,2711
+48,Botafogo-SP,SP,2698
+49,Tombense,MG,2391
+50,Ypiranga,RS,2348
+51,Botafogo-PB,PB,2227
+52,Ferroviário,CE,2205
+53,Volta Redonda,RJ,2193
+54,São Bento,SP,2028
+55,Manaus,AM,1981
+56,São José,RS,1973
+57,Boa Esporte,MG,1957
+58,Ituano,SP,1834
+59,Juazeirense,BA,1815
+60,Luverdense,MT,1728
+61,América-RN,RN,1558
+62,Joinville,SC,1473
+63,Brasiliense,DF,1427
+64,Novorizontino,SP,1398
+65,Jacuipense,BA,1386
+66,AE Altos,PI,1382
+67,Treze,PB,1374
+68,Acreano,AC,1360
+69,Imperatriz,MA,1340
+70,Mirassol,SP,1207
+71,Aparecidense,GO,1203
+72,Campinense,PB,1191
+73,Boavista,RJ,1183
+74,Moto Club,MA,1180
+75,Cianorte,PR,1174
+76,Floresta EC,CE,1138
+77,Caxias,RS,1089
+78,Sao Raimundo AM,RR,1068
+79,Ferroviária,SP,1039
+80,Caldense,MG,947
+81,Salgueiro,PE,941
+82,Globo,RN,933
+83,Uniao Rondonopolis,MT,928
+84,4 de Julho Esporte,PI,912
+85,Itabaiana,SE,911
+86,Galvez,AC,882
+87,Fast Clube,AM,847
+88,Palmas,TO,842
+89,Central,PE,810
+90,Sergipe,SE,754
+91,ASA,AL,752
+92,Cascavel,PR,727
+93,Bahia de Feira,BA,712
+94,Guarany de Sobral,CE,710
+95,Águia Negra,MS,684
+96,Gama,DF,668
+97,Alagoinhas,BA,644
+98,Rio Branco,AC,634
+99,Uberlândia,MG,628
+100,Santos AP,AP,627
+101,Goianésia,GO,620
+102,Ypiranga-AP,AP,618
+103,SE Juventude,MA,616
+104,Atletico-CE,CE,611
+105,Sport Sinop,MT,610
+106,Bragantino,PA,600
+107,River-PI,PI,584
+108,Murici AL,AL,583
+109,Tubarão,SC,578
+110,Bangu,RJ,570
+111,Tupi,MG,564
+112,Marcílio Dias,SC,519
+113,Madureira,RJ,512
+114,Retrô,PE,505
+115,Rio Branco ES,ES,505
+116,Vitoria ES,ES,487
+117,Coruripe,AL,468
+118,URT,MG,443
+119,Real Ariquemes,RO,431
+120,Sao Raimundo,PA,418
+121,Esportivo,RS,415
+122,Portuguesa-RJ,RJ,414
+123,Castanhal,PA,410
+124,Patrocinense,MG,408
+125,Independente,PA,406
+126,Afogados da Ingazeira,PE,404
+127,Fluminense de Feira,BA,396
+128,Nova Mutum,MT,395
+129,São Caetano,SP,387
+130,Penarol,AM,385
+131,Jaraguá,GO,380
+132,Porto Velho,RO,380
+133,Rio Branco-VN,ES,380
+134,Santo Andre,SP,370
+135,Baré,RR,357
+136,Vitoria da Conquista,BA,351
+137,Corumbaense,MS,350
+138,Portuguesa,SP,331
+139,Iporá,GO,316
+140,Caucaia,CE,315
+141,Paragominas,PA,315
+142,São Luiz,RS,308
+143,Sousa,PB,307
+144,Internacional de Limeira,SP,305
+145,Picos,PI,300
+146,Tocantinópolis,TO,295
+147,Interporto,TO,285
+148,Aimoré,RS,285
+149,Foz do Iguacu,PR,279
+150,Villa Nova-MG,MG,266
+151,Frei Paulistano,SE,264
+152,Operario-VG,MT,264
+153,Toledo,PR,264
+154,Vilhenense,RO,264
+155,Novo Hamburgo,RS,263
+156,Goiânia,GO,256
+157,Barcelona RO,RO,255
+158,Maringá,PR,255
+159,Potiguar,RN,255
+160,GAS,RR,255
+161,Juventus SC,SC,255
+162,Rio Branco PR,PR,255
+163,Avenida,RS,228
+164,Santa Cruz de Natal,RN,228
+165,Serra,ES,228
+166,Maranhão,MA,219
+167,Macaé,RJ,214
+168,Mogi Mirim,SP,212
+169,Ceilândia,DF,206
+170,America PE,PE,204
+171,Atlético Cajazeirense,PB,204
+172,Cabofriense,RJ,204
+173,Jacyoba,AL,204
+174,Ji-Parana,RO,204
+175,Nacional PR,PR,204
+176,Pelotas,RS,204
+177,Real Noroeste,ES,204
+178,Tupynambas,MG,204
+179,Operário-MS,MS,198
+180,Sobradinho,DF,198
+181,Cordino Esporte Clube,MA,183
+182,Guarani de Juazeiro,CE,178
+183,Nacional-AM,AM,176
+184,Espirito Santo,ES,166
+185,Anapolina,GO,153
+186,Atlético Roraima,RR,153
+187,Gaúcho,RS,153
+188,Hercilio Luz,SC,153
+189,Inter de Lages,SC,153
+190,Itaborai,RJ,153
+191,Itumbiara,GO,153
+192,Serrano PB,PB,153
+193,Acadêmica Vitória,PE,153
+194,Piracicaba,SP,151
+195,Aquidauanense,MS,150
+196,Americano,RJ,147
+197,Itapemirim,ES,132
+198,Linense,SP,132
+199,Nova Iguacu,ES,132
+200,Novoperário,MS,132
+201,Marilia,SP,125
+202,Real Brasilia,DF,125
+203,Santa Cruz,RS,125
+204,Gurupi,TO,110
+205,Assu,RN,102
+206,Belo Jardim,PE,102
+207,Dom Bosco,MT,102
+208,Flamengo,PE,102
+209,Macapá,AP,102
+210,Placido de Castro,AC,102
+211,Prudentopolis,PR,102
+212,Santa Rita,AL,102
+213,SD Sparta,TO,102
+214,Lagarto,SE,100
+215,Parnahyba,PI,81
+216,Audax-SP,SP,76
+217,PSTC Procopense,PR,76
+218,Sao Francisco,PA,76
+219,Sete de Setembro MS,MS,76
+220,Mixto,MT,75
+221,Princesa de Solimões,AM,71
+222,Anápolis,GO,66
+223,Comercial-MS,MS,66
+224,Desportiva Ferroviaria,ES,66
+225,Luziânia,DF,66
+226,São Bernardo,SP,65
+227,Barbalha,CE,60
+228,Atletico-PE,PE,51
+229,Genus,RO,51
+230,Jacobina,BA,51
+231,Metropolitano,SC,51
+232,Red Bull Brasil,SP,51
+233,Sport Club São Paulo,RS,51
+234,Tocantins,TO,51
+235,Trem,AP,51
+236,Santana EC,AP,50
+237,Votuporanguense,SP,45
+238,Friburguense,RJ,15
+239,Rondoniense,RO,15
